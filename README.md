@@ -15,4 +15,5 @@
 
 </p>
 
-Credits goes to: Txmmy, for create this template.
+
+Credit goes to Txmmy for creating this template.
